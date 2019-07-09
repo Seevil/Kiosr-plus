@@ -2,10 +2,10 @@
 /**
  * 文字主题
  *
- * @package 拉屎6.1
- * @author 南蛰(Kiosr)
+ * @package Kiosr plus
+ * @author 南蛰(Kiosr) Re Xingr
  * @version 6.1
- * @link http://moe.sb
+ * @link https://github.com/Seevil/Kiosr-plus
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  $this->need('h.php');
