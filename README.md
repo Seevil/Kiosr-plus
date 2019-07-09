@@ -1,4 +1,11 @@
-![QQ20190517-3.jpg][1]
+### 差异预览
+
+### Kiosr：
+![moe sb_](https://user-images.githubusercontent.com/7334510/60851084-824b3500-a224-11e9-8fea-dfb968957ff9.png)
+
+### Kiosr-plus：
+![moe sb_ 2](https://user-images.githubusercontent.com/7334510/60851099-94c56e80-a224-11e9-8439-483290d6a26a.png)
+
 
 > **新**的文字主题
 
@@ -56,4 +63,4 @@
  如：
  `分类id，<a>任意的分类名称<a>；分类id，<a>任意的分类名称<a>；分类id，<a>任意的分类名称<a>；···`
 
-  [1]: https://moe.sb/usr/uploads/2019/05/1463344748.jpg
+
